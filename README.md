@@ -19,6 +19,6 @@ Overall, the course provides students with tools to process and analyze text, au
 
 <h2 align="left" id="description">Course Plan 📅</h2>
 
-See [222E23_version0.pdf](222E23-version0.pdf)
+See [222E23_version3.pdf](222E23-version3.pdf)
 
 

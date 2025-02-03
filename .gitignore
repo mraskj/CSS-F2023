@@ -165,6 +165,15 @@ cython_debug/
 exam/
 eval/
 
+# untracked data files
+data/57-71.mp4
+data/ft-speeches_2000-2021.csv
+data/image/sampling
+
+# untracked slides
+slides/class*slides.pdf
+
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore

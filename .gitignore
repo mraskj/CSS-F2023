@@ -173,6 +173,9 @@ data/image/sampling
 # untracked slides
 slides/class*slides.pdf
 
+# admin
+admin/
+
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
